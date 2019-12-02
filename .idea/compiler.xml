@@ -6,17 +6,27 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Chapter5" />
+        <module name="Chapter5 (1)" />
         <module name="Chapter" />
+        <module name="Chapter1202" />
+        <module name="Chapter5" />
+        <module name="Chapter55555" />
         <module name="Chapter7" />
         <module name="Chapter6" />
+        <module name="ChapterTestSV" />
+        <module name="Chapter1129" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Chapter1129" target="1.5" />
+      <module name="Chapter1202" target="1.5" />
       <module name="Chapter5" target="1.5" />
       <module name="chapter5" target="1.5" />
+      <module name="Chapter5 (1)" target="1.5" />
+      <module name="Chapter55555" target="1.5" />
       <module name="Chapter6" target="1.5" />
       <module name="Chapter7" target="1.5" />
+      <module name="ChapterTestSV" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -3,10 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AutoTestshallwe.iml" filepath="$PROJECT_DIR$/AutoTestshallwe.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Chapter55555/Chapter55555.iml" filepath="$PROJECT_DIR$/Chapter55555/Chapter55555.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter1129/Chapter1129.iml" filepath="$PROJECT_DIR$/Chapter1129/Chapter1129.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter1202/Chapter1202.iml" filepath="$PROJECT_DIR$/Chapter1202/Chapter1202.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter5/Chapter5.iml" filepath="$PROJECT_DIR$/Chapter5/Chapter5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter55555/Chapter5 (1).iml" filepath="$PROJECT_DIR$/Chapter55555/Chapter5 (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter6/Chapter6.iml" filepath="$PROJECT_DIR$/Chapter6/Chapter6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter7/Chapter7.iml" filepath="$PROJECT_DIR$/Chapter7/Chapter7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChapterTestSV/ChapterTestSV.iml" filepath="$PROJECT_DIR$/ChapterTestSV/ChapterTestSV.iml" />
     </modules>
   </component>
 </project>

@@ -7,10 +7,16 @@
         <option value="$PROJECT_DIR$/Chapter6/pom.xml" />
         <option value="$PROJECT_DIR$/Chapter7/pom.xml" />
         <option value="$PROJECT_DIR$/Chapter5/pom.xml" />
+        <option value="$PROJECT_DIR$/ChapterTest/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter1129/pom.xml" />
+        <option value="$PROJECT_DIR$/ChapterTestSV/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter55555/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter1128/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter1202/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_12" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

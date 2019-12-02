@@ -6,10 +6,8 @@
             <class name="com.course.testng.groups.GroupOnClass1"/>
             <class name="com.course.testng.groups.GroupOnClass2"/>
             <class name="com.course.testng.groups.GroupOnClass3"/>
-
         </classes>
     </test>
-
     <test name ="onlyRunStu">
         <groups>
             <run>
@@ -20,9 +18,6 @@
             <class name="com.course.testng.groups.GroupOnClass1"/>
             <class name="com.course.testng.groups.GroupOnClass2"/>
             <class name="com.course.testng.groups.GroupOnClass3"/>
-
         </classes>
     </test>
-
-
 </suite>
